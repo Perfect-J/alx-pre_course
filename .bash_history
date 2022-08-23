@@ -591,3 +591,61 @@ git branch -M main
 git remote origin https://github.com/Perfect-J/alx-pre_course.git
 git push -u orgin main
 exit
+cd root
+ls
+cd 0x01-git
+echo "my second commit">README.md
+cd ..
+git add .
+git commit -m 'my second commit'
+git push origin main
+exit
+cd /root
+ls
+mv not_here /tmp/right_school
+mkdir not_here /tmp/right_school
+exit
+cd /root
+ls
+echo "not_here /tmp/right_school"
+pwd
+cd /tmp
+ls
+mv not_here /tmp/right_school
+echo "not_here /tmp/right_school"
+mv not_here /tmp/right_school
+clear
+cd /root
+is
+ls
+mv not_here /tmp/right_school
+pwd
+cd /tmp
+ls
+exit
+cd /root
+cd alx-pre_course
+cd 0x01-git
+echo "my second commit">README.md
+cat README.md
+cd ..
+git add .
+ls
+git commit -m 'My second commit'
+git push origin main
+clear
+cd root
+cd 0x01-git
+echo "my second commit">README.md
+cat README.md
+pwd
+gitt add .
+cd ..
+git add .
+git commit -m 'my second commit'
+git push origin main
+git check my code
+cd ~/.ssh/
+exit
+cd ~/.ssh/
+exit

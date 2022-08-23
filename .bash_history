@@ -649,3 +649,119 @@ cd ~/.ssh/
 exit
 cd ~/.ssh/
 exit
+cd /root
+cd 0x01-git
+mkdir bash
+mkdir c
+ls
+touch c/c_is_fun. c
+touch js/index. js
+cd c
+ls
+cd bash
+echo bash
+cd bash
+cd root
+cd bash
+exit
+cd /root
+echo bash>
+echo bash
+cd bash 
+clear
+cd 0x01-git
+mkdir bash
+cd bash
+echo '#! /bin/bash' >alx
+echo "ALX" >>alx
+'#! /bin/bash'>school
+echo '#! /bin/bash'>school
+echo "school">>school
+cd ..
+git commit -m 'starting to code today, so cool'
+git add .
+git commit -m 'starting to code today, so cool'
+git add <file>....
+git commit -m
+git commit -M
+git commit -M 'Schoolto code today, so cool'
+git push
+Perfect-J
+git push
+clear
+cd bash
+clear
+exit
+ls
+touch c/c_fun. c
+cd root
+cd 0x01-git
+mkdir bash
+echo mkdir bash
+mkdir bash
+mkdir c
+mkdir js
+ls
+touc c/c_is_fun. c
+touch c/c_is_fun.c
+touch js/main.js
+touch js/index.js
+cd c
+ls
+cd ..
+cd bash
+echo '#! /bin/bash' >alx
+"ALX" >>alx
+echo "ALX" >>alx
+echo '#! /bin/bash'>school
+echo "school">>school
+cd ..
+git commit -m 'starting to code today, so cool'
+git add .
+git commit -m 'starting to code today, so cool'
+git push
+exit
+cd /root
+mkdir bash
+mkdir c
+mkdir js
+ls
+touch c/c_is_fun.c
+touch js/main.js
+touch js/index.js
+cd c
+ls
+cd ..
+echo '#! /bin/bash' >alx
+echo "ALX" >>alx
+echo '#! /bin/bash'>school
+echo "school">>school
+cd ..
+git add .
+exit
+cd /root
+cd 0x01-git
+mkdir bash
+mkdir c
+mkdir js
+ls
+touch c/c_is_fun.c
+touch js/main.js
+touch js/index.js
+cd c
+ls
+cd ..
+cd bash
+echo '#! /bin/bash' >alx
+echo "ALX" >>alx
+echo '#! /bin/bash'>school
+echo "school">>school
+cd ..
+git add .
+git commit -m 'starting to code today, so cool'
+git push
+git push -u --origin all
+Perfect-J
+Perfect-J/alx-pre_course
+Perfect-J/alx-pre_course.git
+exit

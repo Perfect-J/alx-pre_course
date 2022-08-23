@@ -649,3 +649,104 @@ cd ~/.ssh/
 exit
 cd ~/.ssh/
 exit
+cd root
+git checout -b update_script
+git checkout -b update_script
+cd bash
+touch 98
+echo '#! /bin/bash' >alx
+echo "ALX school" >>alx
+echo '#! /bin/bash'>school
+echo "The school is open!">>school
+cd ..
+git add .
+git commit -m "My personal work"
+git push --set-upstream origin update_script
+git checkout main
+cd bash
+echo '#! /bin/bash' >alx
+echo "ALX school is so cool!" >>alx
+cd ..
+rem -rf js
+git add .
+cd ..
+git push
+git push -u origin --all
+exit
+cd /root
+cd 0x01-git
+mkdir bash
+ls
+touch c/c_is_fun.c
+touch js/main.js
+touch js/index.js
+cd c
+ls
+cd ..
+cd bash
+echo '#! /bin/bash' >alx
+echo "ALX" >>alx
+echo '#! /bin/bash'>school
+echo "school">>school
+cd ..
+git add .
+git commit -m 'starting to code today, so cool'
+git push
+exit
+cd root
+cd 0x01-git
+ls
+touch c/c_is_fun.c
+touch js/main.js
+touch js/index.js
+cd c
+ls
+cd ..
+cd bash
+echo '#! /bin/bash' >alx
+echo "ALX" >>alx
+echo '#! /bin/bash'>school
+echo "school">>school
+cd ..
+git add .
+git commit -m 'starting to code today, so cool'
+git push
+git clone https://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@github.com/Perfect-J/alx-pre_course.git
+git push
+git clone https://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@github.com/Perfect-J/alx-pre_course.git
+exit
+cd /root
+cd 0x01-git
+mkdir bash
+ls
+cd ..
+cd bash
+echo '#! /bin/bash' >alx
+echo "ALX" >>alx
+echo '#! /bin/bash'>school
+echo "school">>school
+git add .
+git commit -m 'strating to code today, so cool'
+git push
+git commit -m 'starting to code today, so cool'
+exit
+cd /root
+cd 0x01-git
+touch c/c_is_fun.c
+touch js/main.js
+touch js/index.js
+cd bash
+echo '#! /bin/bash' >alx
+echo "ALX" >>alx
+echo '#! /bin/bash'>school
+echo "school">>school
+git add .
+git commit -m 'starting to code today, so cool'
+cd ..
+git commit -m 'starting to code today, so cool'
+git push
+mkdir bash
+ls
+cat README.md
+git add .
+exit

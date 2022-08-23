@@ -750,3 +750,49 @@ ls
 cat README.md
 git add .
 exit
+cd /root
+cd 0x01-git
+ls
+touch c/c_is_fun.c
+touch js/main.js
+touch js/index.js
+cd c
+ls
+cd bash 
+echo bash
+cd bash
+cd /root
+echo bash>
+cd bash
+echo '#!/bin/bash' >alx
+echo "ALX" >>alx
+echo'#!/bin/bash'>school
+echo '#! /bin/bash'>school
+echo "school">>school
+cd ..
+git add .
+git commit -m 'statring to code today, so cool'
+git push
+exit
+cd /root
+mkdir bash
+cd 0x01-git
+mkdir bash
+ls
+touch c/c_is_fun.c
+touch js/main.js
+touch js/index.js
+cd c
+ls
+cd ..
+cd bash
+echo '#!/bin/bash' >alx
+echo "ALX" >>alx
+echo '#!/bin/bash'>school
+echo "school">>school
+cd ..
+git add .
+git commit -m'starting to code today, so cool'
+git push
+git clone https://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@github.com/Perfect-J/alx-pre_course.git
+exit

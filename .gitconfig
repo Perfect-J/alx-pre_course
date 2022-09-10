@@ -1,3 +1,5 @@
 [user]
 	email = johnsonayo532@gmail.com
 	name = Perfect-J
+[push]
+	default = current

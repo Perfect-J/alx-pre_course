@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1660882232,,"wq"
+|2,0,1662763228,,"wq"
+:WQ
+|2,0,1662707908,,"WQ"
 :zz
 |2,0,1660882214,,"zz"
 
@@ -25,20 +27,1031 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+		
+|3,1,36,0,1,0,1662737302,"	"
 
 # File marks:
-'0  1  16  ~/demo_file
-|4,48,1,16,1660882232,"~/demo_file"
-'1  1  22  ~/demo_file
-|4,49,1,22,1660881589,"~/demo_file"
+'0  1  0  ~/.git/config
+|4,48,1,0,1662763228,"~/.git/config"
+'1  29  0  ~/alx-low_level_programming/0x01-variables_if_else_while/3-print_alphabets.c
+|4,49,29,0,1662757105,"~/alx-low_level_programming/0x01-variables_if_else_while/3-print_alphabets.c"
+'2  4  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,50,4,0,1662755513,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+'3  4  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,51,4,0,1662753675,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+'4  4  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,52,4,0,1662753302,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+'5  4  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,53,4,0,1662753302,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+'6  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,54,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+'7  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,55,35,0,1662737313,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+'8  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,56,35,0,1662737313,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+'9  33  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,57,33,0,1662737054,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
 
 # Jumplist (newest first):
--'  1  16  ~/demo_file
-|4,39,1,16,1660882232,"~/demo_file"
--'  1  22  ~/demo_file
-|4,39,1,22,1660881589,"~/demo_file"
+-'  1  0  ~/.git/config
+|4,39,1,0,1662763228,"~/.git/config"
+-'  29  0  ~/alx-low_level_programming/0x01-variables_if_else_while/3-print_alphabets.c
+|4,39,29,0,1662757105,"~/alx-low_level_programming/0x01-variables_if_else_while/3-print_alphabets.c"
+-'  29  0  ~/alx-low_level_programming/0x01-variables_if_else_while/3-print_alphabets.c
+|4,39,29,0,1662757105,"~/alx-low_level_programming/0x01-variables_if_else_while/3-print_alphabets.c"
+-'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/3-print_alphabets.c
+|4,39,1,0,1662756589,"~/alx-low_level_programming/0x01-variables_if_else_while/3-print_alphabets.c"
+-'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/3-print_alphabets.c
+|4,39,1,0,1662756589,"~/alx-low_level_programming/0x01-variables_if_else_while/3-print_alphabets.c"
+-'  4  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,4,0,1662755513,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  4  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,4,0,1662755513,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  4  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,4,0,1662755513,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  4  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,4,0,1662755513,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  4  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,4,0,1662753675,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  4  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,4,0,1662753675,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  4  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,4,0,1662753675,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  4  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,4,0,1662753675,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  4  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,4,0,1662753302,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  4  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,4,0,1662753302,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  4  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,4,0,1662753302,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  4  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,4,0,1662753302,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,1,0,1662752805,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,1,0,1662752805,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,1,0,1662752805,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,1,0,1662752805,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,1,0,1662752805,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,1,0,1662752805,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,1,0,1662752805,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,1,0,1662752805,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,1,0,1662752805,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,1,0,1662752805,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,1,0,1662752805,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  1  0  ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+|4,39,1,0,1662752805,"~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  37  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,37,0,1662737543,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737366,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737313,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737313,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737313,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737313,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737313,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737313,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
+-'  35  0  ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+|4,39,35,0,1662737313,"~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/config
+	*	1662763224	0
+	"	1	0
+
+> ~/alx-low_level_programming/0x01-variables_if_else_while/3-print_alphabets.c
+	*	1662757097	0
+	"	29	0
+	^	29	0
+	.	30	0
+	+	9	9
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	2
+	+	12	13
+	+	12	0
+	+	12	13
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	21	0
+	+	22	0
+	+	24	5
+	+	24	0
+	+	25	0
+	+	27	0
+	+	28	0
+	+	27	14
+	+	29	0
+	+	30	0
+
+> ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+	*	1662755497	0
+	"	4	0
+	^	4	1
+	.	20	0
+	+	9	9
+	+	2	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	2
+	+	18	0
+	+	19	0
+	+	20	0
+
+> ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+	*	1662737537	0
+	"	37	0
+	^	37	1
+	.	37	0
+	+	11	2
+	+	12	0
+	+	10	3
+	+	11	0
+	+	10	0
+	+	9	5
+	+	10	1
+	+	9	0
+	+	8	0
+	+	9	0
+	+	7	0
+	+	8	0
+	+	2	0
+	+	4	0
+	+	7	0
+	+	15	11
+	+	15	2
+	+	15	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	19	16
+	+	18	0
+	+	19	15
+	+	24	7
+	+	23	0
+	+	24	1
+	+	37	1
+	+	26	1
+	+	27	0
+	+	28	0
+	+	29	1
+	+	30	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	34	0
+	+	35	0
+	+	37	0
+	+	22	0
+	+	23	1
+	+	24	0
+	+	25	0
+	+	26	0
+	+	35	0
+	+	37	0
+
+> ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
+	*	1662735278	0
+	"	23	0
+	^	23	0
+	.	23	0
+	+	1	0
+	+	1	1
+	+	1	5
+	+	1	10
+	+	1	0
+	+	1	18
+	+	26	0
+	+	1	0
+	+	2	0
+	+	4	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	17	0
+	+	15	0
+	+	25	0
+	+	24	0
+	+	23	0
+	+	22	0
+	+	21	0
+	+	20	0
+	+	19	0
+	+	22	0
+	+	18	0
+	+	25	0
+	+	3	0
+	+	4	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	17	0
+	+	18	0
+	+	20	0
+	+	18	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	25	0
+	+	26	0
+	+	8	0
+	+	15	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	0
+
+> ~/alx-system_engineering-devops/0x00-hello_world/101-quote.c
+	*	1662708593	0
+	"	20	0
+	^	20	1
+	.	20	0
+	+	20	0
+
+> ~/alx-system_engineering-devops/0x00-hello_world/100-intel
+	*	1662707965	0
+	"	2	24
+	^	2	25
+	.	2	25
+	+	1	11
+	+	2	25
+
+> ~/alx-low_level_programming/0x00-hello_world/5-printf.c
+	*	1662679042	0
+	"	10	0
+	^	10	0
+
+> ~/alx-low_level_programming/5-printf.c
+	*	1662678856	0
+	"	9	0
+	^	9	1
+	.	9	0
+	+	8	12
+	+	9	0
+
+> ~/alx-low_level_programming/0x00-hello_world/6-size.c
+	*	1662676184	0
+	"	21	40
+	^	21	41
+	.	21	40
+	+	19	43
+	+	20	48
+	+	21	40
+
+> /Betty/betty
+	*	1662635811	0
+	"	39	3
+	^	39	4
+	.	39	0
+	+	39	0
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+	*	1662549142	0
+	"	1	0
+	^	1	0
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/13-print_float
+	*	1662465285	0
+	"	2	19
+	^	2	20
+	.	2	19
+	+	2	19
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/12-combinations
+	*	1662464853	0
+	"	2	42
+	^	2	43
+	.	2	42
+	+	2	42
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/11-binary_to_decimal
+	*	1662464026	0
+	"	1	20
+	^	1	21
+	.	1	20
+	+	1	20
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/10-love_exponent_breath
+	*	1662462874	0
+	"	2	21
+	^	2	22
+	.	2	21
+	+	2	21
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
+	*	1662462456	0
+	"	2	20
+	^	2	21
+	.	2	21
+	+	2	21
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/8-true_knowledge
+	*	1662462149	0
+	"	2	27
+	^	2	28
+	.	2	27
+	+	2	27
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/7-create_global_variable
+	*	1662461709	0
+	"	2	19
+	^	2	20
+	.	2	19
+	+	2	19
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/6-create_local_variable
+	*	1662461204	0
+	"	2	18
+	^	2	19
+	.	2	18
+	+	2	18
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/5-local_variables
+	*	1662460812	0
+	"	2	9
+	^	2	10
+	.	2	9
+	+	2	9
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/4-global_variables
+	*	1662460413	0
+	"	2	7
+	^	2	8
+	.	2	7
+	+	2	7
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
+	*	1662460078	0
+	"	2	31
+	^	2	32
+	.	2	31
+	+	2	31
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/2-path
+	*	1662459588	0
+	"	2	17
+	^	2	18
+	.	2	17
+	+	2	17
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you
+	*	1662459189	0
+	"	2	17
+	^	2	18
+	.	2	17
+	+	2	17
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/0-alias
+	*	1662458697	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	2	14
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
+	*	1662453429	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	2	0
+	+	1	11
+	+	2	14
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/103-the_biggest_fan
+	*	1662442538	0
+	"	1	0
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/102-acrostic
+	*	1662441654	0
+	"	2	24
+	^	2	25
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/101-gifs
+	*	1662441465	0
+	"	2	93
+	^	2	94
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/100-empty_casks
+	*	1662441240	0
+	"	2	42
+	^	2	43
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+	*	1662440876	0
+	"	2	35
+	^	2	36
+	.	2	35
+	+	2	35
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/21-reverse
+	*	1662440744	0
+	"	2	2
+	^	2	3
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/20-hiago
+	*	1662440644	0
+	"	2	9
+	^	2	10
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/19-AZ
+	*	1662440556	0
+	"	2	22
+	^	2	23
+	.	2	23
+	+	2	23
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
+	*	1662440438	0
+	"	2	0
+	^	2	0
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/16-whatsnext
+	*	1662440001	0
+	"	2	25
+	^	2	26
+	.	2	25
+	+	2	25
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/15-countthatword
+	*	1662439891	0
+	"	2	27
+	^	2	28
+	.	2	27
+	+	2	27
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/14-findthatword
+	*	1662439796	0
+	"	2	22
+	^	2	23
+	.	2	23
+	+	2	23
+
+> ~/alx-system_engineering-devops/15-countthatword
+	*	1662415570	0
+	"	2	27
+	^	2	28
+	.	2	5
+	+	2	5
+
+> ~/alx-system_engineering-devops/14-findthatword
+	*	1662415456	0
+	"	1	22
+	^	1	23
+	.	1	22
+	+	1	22
+
+> ~/alx-system_engineering-devops/13-unique
+	*	1662415330	0
+	"	2	0
+	^	2	0
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/12-newest_files
+	*	1662415168	0
+	"	2	11
+	^	2	12
+	.	2	11
+	+	2	11
+
+> ~/alx-system_engineering-devops/11-directories
+	*	1662414974	0
+	"	2	0
+	^	2	0
+	.	1	11
+	+	1	11
+
+> ~/alx-system_engineering-devops/10-no_more_js
+	*	1662414765	0
+	"	2	34
+	^	2	35
+	.	2	34
+	+	2	34
+
+> ~/alx-system_engineering-devops/12-file_type
+	*	1662414316	0
+	"	2	17
+	^	2	18
+	.	2	17
+	+	2	17
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/12-file_types
+	*	1662414098	0
+	"	2	17
+	^	2	18
+	.	2	17
+	+	2	17
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/9-duplicate_last_line
+	*	1662413056	0
+	"	2	21
+	^	2	22
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/8-cwd_state
+	*	1662412864	0
+	"	2	20
+	^	2	21
+	.	2	20
+	+	2	20
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/7-file
+	*	1662412712	0
+	"	2	73
+	^	2	74
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/6-third_line
+	*	1662412565	0
+	"	2	22
+	^	2	23
+	.	2	23
+	+	2	23
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/17-hidethisword
+	*	1662412119	0
+	"	2	22
+	^	2	23
+	.	2	22
+	+	2	22
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/5-firstlines
+	*	1662391637	0
+	"	2	15
+	^	2	16
+	.	2	15
+	+	2	15
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/4-lastlines
+	*	1662390731	0
+	"	2	21
+	^	2	22
+	.	2	21
+	+	2	21
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/3-twofiles
+	*	1662390418	0
+	"	2	25
+	^	2	26
+	.	2	25
+	+	2	25
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/2-hellofile
+	*	1662389952	0
+	"	2	13
+	^	2	14
+	.	2	14
+	+	2	14
+
+> ~/0x02-shell_redirections/4-lastlines
+	*	1662386840	0
+	"	2	21
+	^	2	22
+	.	2	21
+	+	2	21
+
+> ~/0x02-shell_redirections/3-twofiles
+	*	1662386741	0
+	"	2	24
+	^	2	25
+	.	2	24
+	+	2	24
+
+> ~/0x02-shell_redirections/2-hellofile
+	*	1662386628	0
+	"	2	14
+	^	2	15
+	.	2	4
+	+	2	4
+
+> ~/0x02-shell_redirections/1-confused_smiley
+	*	1662386480	0
+	"	2	15
+	^	2	16
+	.	2	15
+	+	2	15
+
+> ~/0x02-shell_redirections/0-hello_world
+	*	1662385438	0
+	"	2	18
+	^	2	19
+	.	2	18
+	+	2	18
+
+> /alx-zero_day/bash/school
+	*	1662133241	0
+	"	2	18
+	^	2	19
+	.	2	18
+	+	2	18
+
+> /alx-zero_day/bash/alx
+	*	1662133120	0
+	"	2	4
+	^	2	5
+	.	2	0
+	+	2	0
+
+> /alx-zero_day/0x03-git/0x03-git
+	*	1662132732	0
+	"	2	18
+	^	2	19
+	.	2	18
+	+	2	18
+
+> /alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+	*	1662132021	0
+	"	2	0
+
+> /alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
+	*	1662130845	0
+	"	2	28
+	^	2	29
+	.	2	28
+	+	2	28
+
+> /alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+	*	1662130511	0
+	"	2	18
+	^	2	19
+	.	2	18
+	+	2	18
+
+> /alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+	*	1662130249	0
+	"	2	17
+	^	2	18
+	.	2	17
+	+	2	17
+
+> /alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
+	*	1662129970	0
+	"	2	20
+	^	2	21
+	.	2	20
+	+	1	11
+	+	2	20
+
+> /alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+	*	1662129248	0
+	"	2	28
+	^	2	29
+	.	2	28
+	+	2	28
+
+> /alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+	*	1662128577	0
+	"	2	33
+	^	2	34
+	.	2	0
+	+	2	0
+
+> /alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+	*	1662126821	0
+	"	2	27
+	^	2	28
+	.	2	28
+	+	2	28
+
+> /alx-system_engineering-devops/103-Star_Wars
+	*	1662121839	0
+	"	2	39
+	^	2	40
+	.	3	0
+	+	3	0
+
+> /alx-system_engineering-devops/102-if_only
+	*	1662121645	0
+	"	2	33
+	^	2	34
+	.	2	0
+	+	2	0
+
+> /alx-system_engineering-devops/100-change_owner_and_group
+	*	1662121415	0
+	"	2	0
+	^	2	0
+	.	2	0
+	+	1	11
+	+	2	0
+
+> /alx-system_engineering-devops/13-change_group
+	*	1662120822	0
+	"	2	4
+	^	2	5
+	.	2	4
+	+	2	4
+
+> /alx-system_engineering-devops/12-directory_permissions
+	*	1662120305	0
+	"	2	7
+	^	2	8
+	.	2	8
+	+	2	8
+
+> /alx-system_engineering-devops/10-mirror_permissions
+	*	1662120081	0
+	"	2	0
+	^	2	0
+	.	2	0
+	+	2	0
+
+> /alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+	*	1662116352	0
+	"	2	11
+	^	2	12
+	.	2	11
+	+	2	11
+
+> /alx-system_engineering-devops/0x01-shell_permissions/9-John_Doe
+	*	1662115967	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	2	14
+
+> /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+	*	1662115786	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	2	14
+
+> /alx-system_engineering-devops/0x01-shell_permissions/7-everybody
+	*	1662115648	0
+	"	2	16
+	^	2	17
+	.	2	16
+	+	2	16
+
+> /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+	*	1662113548	0
+	"	2	19
+	^	2	20
+	.	2	19
+	+	2	19
+
+> /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+	*	1662113044	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	2	14
+
+> /alx-system_engineering-devops/0x01-shell_permissions/4-empty
+	*	1662112598	0
+	"	2	10
+	^	2	11
+	.	2	10
+	+	2	10
+
+> /alx-system_engineering-devops/0x01-shell_permissions/3-new_owner
+	*	1662112093	0
+	"	2	21
+	^	2	22
+	.	2	21
+	+	2	21
+
+> /alx-system_engineering-devops/0x01-shell_permissions/2-groups
+	*	1662111276	0
+	"	2	5
+	^	2	6
+	.	2	5
+	+	2	5
+
+> /alx-system_engineering-devops/0x01-shell_permissions/1-
+	*	1662111192	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> /alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
+	*	1662110182	0
+	"	2	5
+	^	2	6
+	.	2	5
+	+	2	5
+
+> /alx-system_engineering-devops/1-who_am_i
+	*	1662109728	0
+	"	2	5
+	^	2	6
+	.	2	5
+	+	2	5
+
+> /alx-system_engineering-devops/0x01-shell_permissions/0-iam_betty
+	*	1662108901	0
+	"	2	7
+	^	2	8
+	.	2	7
+	+	2	7
+
+> /alx-zero_day/0x03-git/alx
+	*	1661898661	0
+	"	1	0
+
+> /alx-zero_day/0x03-git/bash/alx
+	*	1661894514	0
+	"	2	22
+	^	2	23
+	.	2	22
+	+	2	22
+
+> /alx-zero_day/0x03-git/bash/school
+	*	1661893648	0
+	"	2	25
+	^	2	26
+	.	2	25
+	+	2	25
+
+> /alx-pre_course/.git/MERGE_MSG
+	*	1661458864	0
+	"	6	0
+	^	6	0
 
 > ~/demo_file
 	*	1660882214	0
